@@ -12,7 +12,7 @@ Proposed laundry management system is developed using QT Designer, SqLite.  Talk
 ## Prerequisites
 
 1. QT Designer
-2. SQL Lite 
+2. SqLite 
 
 
 ## Key Features
@@ -35,7 +35,7 @@ Proposed laundry management system is developed using QT Designer, SqLite.  Talk
 ## Steps for making project work
   
   1. Install QT Designer.
-  2. Install SQL Lite.
+  2. Install SqLite.
   3. *Trigger all the files of QT Designer in the QT Designer application/ Folder*.
   4. *Trigger all SQL Lite Files in SQL Lite Data base for smooth work of proposed system*.
   5. Run the System.
